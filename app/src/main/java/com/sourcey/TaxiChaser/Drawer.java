@@ -100,6 +100,7 @@ public class Drawer extends AppCompatActivity
             public void onClick(View view) {
 
                 mDatabase.child("ClientRequests").child(user.getUsername()).setValue(CurrentAddress.get("Long")+","+CurrentAddress.get("Lat"));
+
             }
         });
         FloatingActionButton fabSetting = (FloatingActionButton) findViewById(R.id.fabSetting);

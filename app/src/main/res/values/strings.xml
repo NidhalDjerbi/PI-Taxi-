@@ -10,7 +10,7 @@
     <string name="Chauffeur">Chauffeur</string>
     <string name="title_activity_maps">Map</string>
     <string name="destination">text_destination</string>
-    <string name="title_activity_drawer">Drawer</string>
+    <string name="title_activity_drawer">TAXICHASER</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
